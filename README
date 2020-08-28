@@ -1,0 +1,32 @@
+Are you a victim of a Man In The Browser (MITB) attack?
+
+Is your inspirational quote wallpaper plugin proxying your web traffic?
+
+Find out with my program!
+
+------------------------------------------------- 
+
+A Man-in-the-Browser (MitB) Attack is a type of Man-in-the-Middle (MitM) Attack specifically involving a browser infected with some type of proxy malware.
+
+All browser plugins require some level of access to the browser.
+
+Most users don't realize what access they are giving when they install plugins.
+
+Each month, Google removes hundreds of malicious plugins from their web store for abusing their permission levels, but some trojans may be overlooked.
+
+Your plugins may have access to  copy saved passwords, read your clipboard, see your cookies, make web request on your behalf, or even proxy all web requests!
+
+These permissions are extremely dangerous and given that browser plugins do not require administrative access to install, your users may be victims of a MitB attack!
+
+Find out by running my Chrome browser Plugin Enumerator!
+
+------------------------------------------------- 
+
+To run...
+
+1) Download the PluginEnumerator.exe file
+2) Run the executable
+3) The script will run and report all plugin names, webstore links, and permissions to a file in the working directory
+4) Learn what permissions you allow your plugins to have
+5) Research your results on Google's developer site: https://developer.chrome.com/apps/permissions
+6) Remove plugins with dangerous privileges
