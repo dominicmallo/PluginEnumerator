@@ -18,7 +18,7 @@ Your plugins may have access to  copy saved passwords, read your clipboard, see 
 
 These permissions are extremely dangerous and given that browser plugins do not require administrative access to install, your users may be victims of a MitB attack!
 
-Find out by running my Chrome browser Plugin Enumerator!
+Find out by running my Chrome browser Plugin Enumerator for Windows!
 
 ------------------------------------------------- 
 
