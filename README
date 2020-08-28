@@ -16,7 +16,7 @@ Each month, Google removes hundreds of malicious plugins from their web store fo
 
 Your plugins may have access to  copy saved passwords, read your clipboard, see your cookies, make web request on your behalf, or even proxy all web requests!
 
-These permissions are extremely dangerous and given that browser plugins do not require administrative access to install, your users may be victims of a MitB attack!
+These permissions are extremely dangerous and given that browser plugins do not require administrative access to install, you may be a victim of a MitB attack!
 
 Find out by running my Chrome browser Plugin Enumerator for Windows!
 
